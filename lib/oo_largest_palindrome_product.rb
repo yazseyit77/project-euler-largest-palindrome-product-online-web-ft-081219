@@ -1,7 +1,7 @@
 # Implement your object-oriented solution here!
 
 class LargestPalindromeProduct
-  attr_reader : answer
+  attr_reader :answer
 
   def answer
     largest = 0
