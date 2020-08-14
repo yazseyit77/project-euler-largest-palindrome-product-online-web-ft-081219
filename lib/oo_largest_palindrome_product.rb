@@ -3,4 +3,7 @@
 class LargestPalindromeProduct
   attr_reader : answer
 
+  def answer
+
+  end
 end
